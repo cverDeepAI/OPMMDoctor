@@ -1,0 +1,10 @@
+# Core dependencies (to be finalized upon code release)
+torch
+torchvision
+timm            # Swin Transformer V2
+numpy
+pandas
+scikit-learn
+matplotlib
+grad-cam        # Grad-CAM visualization
+pydicom         # DICOM handling
